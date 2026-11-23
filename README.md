@@ -71,3 +71,5 @@ SUPABASE_KEY	你的 Supabase Service Role Key（以 sb_secret_ 开头）
 
 ### （可选）查看运行历史
 进入 Actions 标签可以查看所有运行记录和日志。
+
+<!-- activity: 2026-11-23 — reset GitHub 60-day inactivity timer -->
